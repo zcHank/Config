@@ -12,9 +12,9 @@
         -->
 	<dict>
 		<key>version</key>
-		<string>1.1.1</string>	
+		<string>1.1.0</string>	
 		<key>open_base_url</key>
-		<string>1</string>
+		<string>0</string>
 	</dict>
 </array>
 </plist>
