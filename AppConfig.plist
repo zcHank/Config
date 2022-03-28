@@ -12,8 +12,8 @@
         -->
 	<dict>
 		<key>version</key>
-		<string>1.2.0</string>	
-		<key>open_base_url</key>
+		<string>1.0.0</string>	
+		<key>base_url</key>
 		<string>0</string>
 	</dict>
 </array>
