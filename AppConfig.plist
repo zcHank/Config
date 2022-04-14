@@ -14,7 +14,7 @@
 		<key>version</key>
 		<string>1.0.0</string>	
 		<key>base_url</key>
-		<string>1</string>
+		<string>0</string>
 	</dict>
 </array>
 </plist>
